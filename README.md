@@ -1,1 +1,3 @@
 # somenewrepository
+
+Altered new repository
